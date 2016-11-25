@@ -1,3 +1,10 @@
+Team and repository tags
+========================
+
+[![Team and repository tags](http://governance.openstack.org/badges/deb-python-pulp.svg)](http://governance.openstack.org/reference/tags/index.html)
+
+<!-- Change things from this point on -->
+
 #pulp [![Build Status](https://travis-ci.org/coin-or/pulp.svg?branch=master)](https://travis-ci.org/coin-or/pulp)
 
 PuLP is an LP modeler written in python. PuLP can generate MPS or LP files
